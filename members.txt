@@ -2,3 +2,5 @@ andy
 bunga
 citra
 deny
+eka
+fikri
